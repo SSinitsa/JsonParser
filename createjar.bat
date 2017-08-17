@@ -1,0 +1,1 @@
+jar cf parser.jar by/intexsoft/jsonparser/model/* by/intexsoft/jsonparser/parser/* by/intexsoft/jsonparser/utils/* 

@@ -1,0 +1,1 @@
+javac -cp ./src -d bin src/by/intexsoft/jsonparser/model/* src/by/intexsoft/jsonparser/parser/* src/by/intexsoft/jsonparser/utils/* src/by/intexsoft/jsonparser/exception/*
